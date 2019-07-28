@@ -2,7 +2,7 @@
 iTunes + Ticketmaster + lyrics.com + Wikipedia all in one place. Also displays the artists that have been most searched on stayTuned.
 
 ## Getting Started
-To use the app go to https://lindsaybstoner.github.io/Project-One/.
+To use the app go to https://skajogbola.github.io/stayTuned/.
 This app connects users to musicians they like and allows them to discover more about that specific artist or what artists other have been interested in.
 
 ## Built With
